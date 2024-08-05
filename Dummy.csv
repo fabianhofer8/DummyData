@@ -1,4 +1,4 @@
-id,parentId,Name,color,positionName,level,directorCUN,directorSOL,stabstelle,departmentCUN,departmentSOL
+id,parentId,name,color,positionName,level,directorCUN,directorSOL,stabstelle,departmentCUN,departmentSOL
 1,,CO-CEO's,2C6E00,,0,0,0,0,0,0
 2,1,Sustainability and Compliance Officer,CCCC00,CCEN,1,0,0,1,0,0
 3,1,Corporate Strategy,CCCC00,JOBI,1,0,0,1,0,0
