@@ -21,8 +21,8 @@ id,parentId,Name,color,positionName,level,directorCUN,directorSOL,stabstelle,dep
 20,18,Head of Controlling Holding,1CBF37,Luise Sandmayr,3,0,0,0,0,1
 21,19,Application Developer,1CBF37,Fabian Hofer,4,0,0,0,0,1
 22,19,Application Developer,1CBF37,Sebastian Wimmer,4,0,0,0,0,1
-23,6,Director Finance CUN DEU, ITA, FRA,1B2AFF,Michael Puchalla,2,1,0,0,0,0
-24,6,Director Finance CUN AUT, ROU, NLD,1B2AFF,Tabitha Hackl,2,1,0,0,0,0
+23,6,Director Finance CUN DEU & ITA & FRA,1B2AFF,Michael Puchalla,2,1,0,0,0,0
+24,6,Director Finance CUN AUT & ROU & NLD,1B2AFF,Tabitha Hackl,2,1,0,0,0,0
 25,24,Head of Controlling AUT,3DB9FF,Tabitha Hackl,3,0,0,0,1,0
 26,24,Head of Accounting ROU,3DB9FF,Alexandru Banica,3,0,0,0,1,0
 27,24,Head of Accounting SOL AUT,C4FFD8,Sabine Lindner,3,0,0,0,1,0
