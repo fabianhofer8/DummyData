@@ -1,28 +1,28 @@
-﻿id;parentId;Name;color;positionName;level;directorCUN;directorSOL;stabstelle;departmentCUN;departmentSOL
-1;;CO-CEO's;2C6E00;;0;0;0;0;0;0
-2;1;Sustainability and Compliance Officer;CCCC00;CCEN;1;0;0;1;0;0
-3;1;Corporate Strategy;CCCC00;JOBI;1;0;0;1;0;0
-4;1;Director Strategic Growth;00CC00;PHKR;1;0;1;0;0;0
-5;1;Director Business Development and Innovation;00CC00;STLI;1;0;1;0;0;0
-6;1;Director Finance;00CC00;JOST;1;0;1;0;0;0
-7;1;Director EPC;00CC00;MASM;1;0;1;0;0;0
-8;1;Director ITA;1B2AFF;SAES;1;1;0;0;0;0
-9;1;Director AUT;1B2AFF;RAST;1;1;0;0;0;0
-10;1;Director NLD;1B2AFF;CEEN;1;1;0;0;0;0
-11;1;HR;1CBF37;;1;0;0;0;0;1
-12;1;Legal;1CBF37;;1;0;0;0;0;1
-13;1;Backoffice;1CBF37;;1;0;0;0;0;1
-14;4;Digitization;1CBF37;;2;0;0;0;0;1
-15;4;Corporate Development;1CBF37;;2;0;0;0;0;1
-16;4;Marketing;1CBF37;;2;0;0;0;0;1
-17;4;Asset Development BESS;3DB9FF;;2;0;0;0;1;0
-18;6;Placeholder Head of's SOL dep.;1CBF37;;2;0;0;0;0;1
-19;18;Head of IT;1CBF37;Thomas Berka;3;0;0;0;0;1
-20;18;Head of Controlling Holding;1CBF37;Luise Sandmayr;3;0;0;0;0;1
-21;19;Application Developer;1CBF37;Fabian Hofer;4;0;0;0;0;1
-22;19;Application Developer;1CBF37;Sebastian Wimmer;4;0;0;0;0;1
-23;6;Director Finance CUN DEU, ITA, FRA;1B2AFF;Michael Puchalla;2;1;0;0;0;0
-24;6;Director Finance CUN AUT, ROU, NLD;1B2AFF;Tabitha Hackl;2;1;0;0;0;0
-25;24;Head of Controlling AUT;3DB9FF;Tabitha Hackl;3;0;0;0;1;0
-26;24;Head of Accounting ROU;3DB9FF;Alexandru Banica;3;0;0;0;1;0
-27;24;Head of Accounting SOL AUT;C4FFD8;Sabine Lindner;3;0;0;0;1;0
+id,parentId,Name,color,positionName,level,directorCUN,directorSOL,stabstelle,departmentCUN,departmentSOL
+1,,CO-CEO's,2C6E00,,0,0,0,0,0,0
+2,1,Sustainability and Compliance Officer,CCCC00,CCEN,1,0,0,1,0,0
+3,1,Corporate Strategy,CCCC00,JOBI,1,0,0,1,0,0
+4,1,Director Strategic Growth,00CC00,PHKR,1,0,1,0,0,0
+5,1,Director Business Development and Innovation,00CC00,STLI,1,0,1,0,0,0
+6,1,Director Finance,00CC00,JOST,1,0,1,0,0,0
+7,1,Director EPC,00CC00,MASM,1,0,1,0,0,0
+8,1,Director ITA,1B2AFF,SAES,1,1,0,0,0,0
+9,1,Director AUT,1B2AFF,RAST,1,1,0,0,0,0
+10,1,Director NLD,1B2AFF,CEEN,1,1,0,0,0,0
+11,1,HR,1CBF37,,1,0,0,0,0,1
+12,1,Legal,1CBF37,,1,0,0,0,0,1
+13,1,Backoffice,1CBF37,,1,0,0,0,0,1
+14,4,Digitization,1CBF37,,2,0,0,0,0,1
+15,4,Corporate Development,1CBF37,,2,0,0,0,0,1
+16,4,Marketing,1CBF37,,2,0,0,0,0,1
+17,4,Asset Development BESS,3DB9FF,,2,0,0,0,1,0
+18,6,Placeholder Head of's SOL dep.,1CBF37,,2,0,0,0,0,1
+19,18,Head of IT,1CBF37,Thomas Berka,3,0,0,0,0,1
+20,18,Head of Controlling Holding,1CBF37,Luise Sandmayr,3,0,0,0,0,1
+21,19,Application Developer,1CBF37,Fabian Hofer,4,0,0,0,0,1
+22,19,Application Developer,1CBF37,Sebastian Wimmer,4,0,0,0,0,1
+23,6,Director Finance CUN DEU, ITA, FRA,1B2AFF,Michael Puchalla,2,1,0,0,0,0
+24,6,Director Finance CUN AUT, ROU, NLD,1B2AFF,Tabitha Hackl,2,1,0,0,0,0
+25,24,Head of Controlling AUT,3DB9FF,Tabitha Hackl,3,0,0,0,1,0
+26,24,Head of Accounting ROU,3DB9FF,Alexandru Banica,3,0,0,0,1,0
+27,24,Head of Accounting SOL AUT,C4FFD8,Sabine Lindner,3,0,0,0,1,0
